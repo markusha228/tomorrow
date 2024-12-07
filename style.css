@@ -1,0 +1,210 @@
+body {
+    font-family: sans-serif;
+}
+
+.logo{
+    width:174px;
+    height:106px;
+   
+}
+
+header{
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+    width:94%;
+    
+}
+
+.header{
+    color:black;
+    font-size:16px;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.img-background{
+    background-image: url(https://learn.logikaschool.com/uploads/student/4673340/674b16f8a9e61.jpg);
+    height: 520px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+
+
+.with-choko{
+    height: 200px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-main1{
+    background-image: url(https://learn.logikaschool.com/uploads/student/4673340/674b1f8e4ccd6.png);
+    width: 276px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.img-main2{
+    background-image: url(https://learn.logikaschool.com/uploads/student/4673340/67544cd3a760f.png);
+    width: 276px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.img-main3{
+    background-image: url(https://learn.logikaschool.com/uploads/student/4673340/6754515da5f4c.png);
+    width: 276px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    margin: 10px;
+}
+    
+
+.img-main4{
+    background-image: url(https://learn.logikaschool.com/uploads/student/4673340/6754528397833.png);
+    width: 276px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    margin: 10px;
+}
+  
+.choko-love{
+    text-align: center;
+}
+
+.baked-into{
+    text-align: center;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-left: 170px;
+    height: 60px;
+}
+
+.nav p:hover{
+    border-bottom: solid black 1px;
+}
+
+
+.our-offer{
+    margin: 10px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.offer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+nav a:hover{
+    border-bottom: solid black 1px;
+}
+
+.about-product{
+    text-align: center;
+}
+
+.special-offer-with-img{
+    background-image: url(https://learn.logikaschool.com/uploads/student/4632546/6754ad2de8a8d.png);
+    width: 100%;
+    height: 900px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.special-offer{
+    width: 50%;
+    margin-left: 50%;
+    color: white;
+    margin-top: 130px;
+    height: 640px;
+}
+
+.h1-special{
+    font-size: 80px;
+}
+
+.text{
+    font-size: 18px;
+}
+
+.border{
+    border: solid white 1px ;
+    display: block;
+    margin-right: 70%;
+    padding: 15px 30px ;
+    margin-top: 40px;
+}
+
+.extra{
+    display: flex;
+    font-size: 18px;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: rgba(252, 248, 237, 1);
+}
+
+.extra img{
+    width: 43px;
+    height: 43px;
+}
+
+.extra-div{
+    display: flex;
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.list li{
+    list-style-type: none;
+    margin: 20px;
+}
+
+.email{
+    border: solid black 1px;
+    padding: 15px;
+    padding-right: 120px;
+}
+
+.email svg{
+    position: relative ;
+    left: 80%;
+}
